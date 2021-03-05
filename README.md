@@ -208,6 +208,8 @@ Who's right? Which is finding underlying interests of both parties?
 - Use the factor checklist when deciding whether to use an agent during negotiations.
 - At the beginning of every negotiation, find out whether your counterpart has authority to make a deal.
 
+---
+
 # Use Key Tactics for Success
 
 ## Getting to Know the Other Side
@@ -234,3 +236,11 @@ Who's right? Which is finding underlying interests of both parties?
     > You would never do a deal without talking to anyone else. Never.
 
 - Also, forming a coalition is another very powerful form of negotiation.
+
+### Use Psychological Tools to avoid traps
+
+Traps: 
+
+1. Mythical Fixed Pie Assumption: We assume that our interests are in direct conflict with the interests of the other side.
+*Reactive devaluation - 先入為主的貶低
+**** 要注意不要讓自己陷入競爭的思維 ***
