@@ -242,5 +242,48 @@ Who's right? Which is finding underlying interests of both parties?
 Traps: 
 
 1. Mythical Fixed Pie Assumption: We assume that our interests are in direct conflict with the interests of the other side.
-*Reactive devaluation - 先入為主的貶低
-**** 要注意不要讓自己陷入競爭的思維 ***
+    - *Reactive devaluation - 先入為主的貶低*
+    - 範例
+        - 教授在課堂上請同學兩兩一組，在十秒內掰手腕，若一方掰到底則得一分，最後看比數分配
+        - 大部分同學比數為 2 vs 1、3 vs 3
+        - 但有少部分同學的比數為 15 vs 15、20 vs 20
+        - 少部分同學了解兩邊的利益並沒有衝突，而選擇合作
+
+    ***** 要注意不要讓自己陷入競爭的思維 ***
+
+2. Anchoring: We anchor on an initial value when estimating the value of uncertain objects.
+    - Conventional wisdom: 讓對方先丟出價錢因為我們也不確定真正的價值。
+    - Anchoring: 自己先丟出價錢，可產生錨定現象。
+    - 到底要不要先提出offer？
+
+        當我們很確定自己的價值的時候，可以先提出來。反之當我們不確定價值時，讓對方先提。
+
+    - 若兩邊都很聰明，都不先提出offer呢？
+
+        可訴諸 information exchange。比如律師在談判時，兩邊會找類似案件的offer，慢慢形成共識。
+
+3. Overconfidence: We are overconfident that our judgements are correct.
+    - 相信一件事的好處 vs 過度自信的壞處
+        - 創業家的 Overconfidence 常常能提供 vision 來說服員工和投資者，正向思考讓他們看見人們最好的一面，並使他們貢獻自己的力量。
+        - 人們因過度自信，而做很多錯誤的決定。比如說股市交易員會頻繁交易，但長遠來看卻是虧錢的；又比如談判時在尋找 ZOPA，因過度自信受到限制，而無法找到共識。
+        - **我們應該要根據狀況來判斷自信與否。**
+            - Decision making - Realist, Disconfirming Evidence
+            - Decision Implementation - Optimist
+    - 人很難去專注在 disconfirming evidence，我們都受到 confirming evidence 的吸引。
+    - "Many great leaders are the ones who are surrounded by people who challenge their thinking and test their thinking, rather than people who simply agree with whatever the leader proposes."
+4. Framing: The way that options are framed cause us to be risk averse (if positive frame) or risk seeking (if negative frame).
+    - 描述會影響人的選擇。
+    - 若要人付出，人傾向賭賭看，不付出；若要人接受好處，人傾向不賭，選擇保險一點的選項。
+    - 診所範例
+
+        有600人等著被治療，有不同方案可以選擇。
+
+        - A方案：200人會被治療。
+        - B方案：1/3的機會所有人會被治療，但有2/3的機會所有人沒辦法被治療。
+
+        *👆 在這個狀況下，大多數人選擇 A。正面的 framing 讓人傾向不要風險。*
+
+        - C方案：400人會死掉。
+        - D方案：1/3的機會沒有人會死掉，但有2/3的機會所有人會死掉。
+
+        *👆 在這個狀況下，大多數人選擇 D。負面的 framing 讓人傾向選擇風險。*
