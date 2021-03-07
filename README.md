@@ -167,7 +167,7 @@ Who's right? Which is finding underlying interests of both parties?
 ## Use Agent for negotiation or not?
 
 - Is the agent a better negotiator?
-- Does the agent have more experience in negotiating the issues
+- Does the agent have more experience in negotiating the issues?
 - Does the negotiation involve a technical matter that requires the expertise of an agent?
 - How much time do I have to invest in a negotiation?
 - What is my relationship with the other side?
@@ -287,3 +287,56 @@ Traps:
         - D方案：1/3的機會沒有人會死掉，但有2/3的機會所有人會死掉。
 
         *👆 在這個狀況下，大多數人選擇 D。負面的 framing 讓人傾向選擇風險。*
+
+5. Availability: We are influenced by information that is most easily available.
+    - 有知名投資人因不想受到資訊影響，而特意選擇不知名的公司投資。
+    - 每年死於車禍和死於癌症的人數哪個比較多？
+
+        癌症 160,000，車禍 34,000。
+
+        但是大多數人都會選車禍，因為我們最常看見車禍的新聞，戲劇化讓我們印象深刻。
+
+    ** 我們是否因某些資訊取得容易，而判斷錯誤呢？ **
+
+6. Escalation: The most successful negotiators look at negotiations from the perspective of the other side.
+    - MBA 的＄20 競標會
+        - 最少加＄1，最高出價者得＄20，最高和第二高出價者都要付出價錢
+        - 最後競標到＄15,000，第二競標者＄14,500
+        - 最高出價者女醫師表示：「我猜教授不會自己留著那些錢，可能會捐掉，所以我就開心地往上喊了。」
+        - 第二高出價者創業家表示：「我不喜歡輸。」
+    - Competitive Arousal
+
+        Three main causes:
+
+        1. Intense rivalry (especially one-on-one competition)
+        2. Time pressure
+        3. In the spotlight
+
+        Try to minimize by, for example:
+
+        - Limit the role of someone who is especially intense
+        - Manage time better
+        - Spread responsibility so that one person not in spotlight
+
+    What separates a good negotiator from a great negotiator is this ability to look at the deal from the other side.
+
+    - 克林頓總統的要求
+        - 一位克林頓總統的資深顧問透露，當克林頓在拜訪其他國家的大使時，顧問被要求在半個小時的時間內，提出兩個國家之間的四個主要問題，在那之後他會詢問和思考，對方是怎麼想這些主要問題的。而克林頓總是能很快的理解這些問題，了解對方的觀點，並 reframe 這些問題來讓兩國解決。
+    - Teddy Roosevelt's photograph
+        - 羅斯福總統印了三百萬份的小冊子，上面有他的照片，準備在巡迴演講時發放
+        - 但這張照片的版權在一個照相館老闆手上
+        - 如果一份是＄1，總共就是三百萬美金，羅斯福總統沒有錢能付了
+        - 他詢問在華爾街的談判高手，該怎麼做？
+
+            我：讓他知道，我們會跟大家說這張好照片是他拍的
+
+            談判高手：”We are planning to distribute millions of pamphlets with Roosevelt's picture on the cover. It will be great publicity for the studio whose photograph we use. How much will you pay us to use yours? Respond immediately.“
+
+    - 我們要出多少價收購公司？
+        - 要收購一家石油開發公司，其價值在＄0~100M，每個數字都有可能，對方知道實際價值多少
+        - 透過我們團隊的管理，可增加 50％的價值
+        - 只能出價一次，我們應該要出多少價錢呢？
+
+            我們應該不買，因為我們在各種狀況下都是賠錢的。
+
+            假設出價＄60M，若實際價值超過＄60M，對方不會答應；若實際價值低於＄60M，平均是＄30，增加 50％ 是＄45M，還是虧了＄15M。
