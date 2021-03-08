@@ -233,7 +233,7 @@ Who's right? Which is finding underlying interests of both parties?
 
 3. 增強自己的 BATNA
 
-    > You would never do a deal without talking to anyone else. Never.
+    > "You would never do a deal without talking to anyone else. Never."
 
 - Also, forming a coalition is another very powerful form of negotiation.
 
@@ -340,3 +340,37 @@ Traps:
             我們應該不買，因為我們在各種狀況下都是賠錢的。
 
             假設出價＄60M，若實際價值超過＄60M，對方不會答應；若實際價值低於＄60M，平均是＄30，增加 50％ 是＄45M，還是虧了＄15M。
+
+7. Reciprocation: We feel the need to repay what someone has given us.
+    - 在談判時雙方有自己在意的點，有時候自己先妥協在對方在意的點上，對方也會想在自己在意的點上妥協。
+8. Contrast Principle: Things look different when presented in sequence.
+    - 房仲業者會先帶你看兩間比較不好的房子，再帶你去看第三間又貴又好的房子，讓你覺得這是一筆好交易。
+    - 一封寫給父母的信
+
+        Dear Mom and Dad, it has been three months since I left for college, I'm very sorry for my thoughtlessness in not having written before, I will bring you up to date now, but before you read on, you better sit down, okay?
+
+        I'm getting along pretty well now. The skull fracture and the concussion I got, when I jumped out of my apartment window when it caught fire, shortly after my arrival, is pretty well healed now. I only spend two weeks in the hospital, and now I can see almost normally, and only get those sick headaches once a day.
+
+        Luckily, the fire in my apartment and my jump, were witnessed by Roger, an attendant at a gas station. And he was the one who called the fire department.
+
+        He also visited me in the hospital.
+
+        And since I had nowhere to live, he was kind enough to invite me to share his apartment with him. He's a very fine man, and we are planning to get married. We haven't set the date yet, but it will be before my pregnancy begins to show.
+
+        His divorce is final now, and he shares custody of his three children.
+
+        The reason for the delay in our marriage, is that Roger has a minor infection which presents, prevents us from passing our pre marital blood tests, and I carelessly caught the infection from him. This will soon clear up, with the penicillin injections I am taking daily.
+
+        Now that I have brought you up to date, I want to tell you that there was no fire in my apartment. I did not have a concussion or a skull fracture, I was not in the hospital.
+
+        I am not pregnant, I'm not engaged, I do not have syphilis. And there is no divorced man in my life.
+
+        However, I am getting a D in my art class and an F in biology. And I wanted to, you to see those grades in their proper perspective. Your loving daughter, Jane.
+
+9. Big-Picture Perspective: Don't get lost in the details.
+
+    *The Monkey Business Illusion:* 
+
+    [The Monkey Business Illusion](https://www.youtube.com/watch?v=IGQmdoK_ZfY)
+
+    > "When you negotiate, you need to always keep in mind the big picture of what your client wants to achieve, and always come back to it, to avoid the trap of being lost in the details."
