@@ -374,3 +374,61 @@ Traps:
     [The Monkey Business Illusion](https://www.youtube.com/watch?v=IGQmdoK_ZfY)
 
     > "When you negotiate, you need to always keep in mind the big picture of what your client wants to achieve, and always come back to it, to avoid the trap of being lost in the details."
+
+# Create a Contract
+
+*Freedom of contract: The law gives you a lot of freedom in writing that contract to create your responsibilities and to also create your duties.*
+
+## Perspectives on Contract
+
+### Global Perspective
+
+- Will my contracts be enforced?
+
+> "A system of contract law and the means to enforce it are fundamental."
+
+### Business Perspective
+
+> "Obtaining a contract is the primary goal of a business entity."
+
+### Personal Perspective
+
+> "In the world of contracts you as the writer control the script and produce the play."
+
+## Sources of Contract Law
+
+- 考量兩個因素：法律系統、合約類型
+
+### Types of Legal System
+
+- 可大致分為兩種法律系統
+- 不過大部分時間，他們兩個都很類似
+1. Common Law
+    - Based on precedence
+    - Originated on England，所以通常被英國統治過的國家也是這個系統。
+    - 律師會花時間在尋找過去類似的案子，來給予法律建議。
+    - 合約通常比較長，因為要考慮到所有的可能性。
+2. Civil Law
+    - Based on code
+    - Originated on European continent，所以通常被歐陸國家統治過的國家也是這個系統。
+    - 律師會花時間在尋找 principles，來給予法律建議。
+    - 合約通常比較短，因為有 principle 可以參考。
+- 範例：國家是哪種系統？
+
+    印度：Common Law，巴西：Civil Law，美國、加拿大：Mixed (mostly common law)
+
+### Types of contract
+
+1. Real Property
+
+    Common Law vs. Civil Law
+
+2. Services
+
+    Common Law vs. Civil Law
+
+3. Product "Goods"
+
+    **Uniform Laws**: US Uniform Commercial Code; UN Convention on Contracts for the International Sale of Goods
+
+    *👆公約在國際交易時常用，不過不一定每個國家都有採用。*
