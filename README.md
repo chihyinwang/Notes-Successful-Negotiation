@@ -432,3 +432,34 @@ Traps:
     **Uniform Laws**: US Uniform Commercial Code; UN Convention on Contracts for the International Sale of Goods
 
     *👆公約在國際交易時常用，不過不一定每個國家都有採用。*
+
+## Key Elements in Creating a Contract
+
+### Is there an agreement?
+
+將談判的內容轉換成合約是要花功夫的
+
+*Framework Agreement: 一種談判工具，合約的模板*
+
+- *一但完成這個模板，就跨越了談判工具，而成為了一個有效力的合同*
+- *若想利用談判工具且不想成為合同，可在合約開頭表明此不等同於 binding contract*
+- Examples of Framework Agreements
+    - Preprinted Lease or Real Estate Contract
+    - Agreement in Principle
+    - Memorandum of Agreement
+    - ...
+- 合約何時成立範例
+    - 禮拜一，商店想跟製造商買電視，並要求製造商送到店家
+    - 禮拜三，製造商說好，但要店家自己去拿
+    - 禮拜五，店家說好
+    - 後來電視的市價變低了，店家不想履約，製造商吿店家
+    - 合約在何時成立的？
+
+        禮拜五。禮拜三的製造商並不是答應合約，而是提供一個counter offer，代表他拒絕了original offer
+
+- Getty Oil 收購案
+    - Pennzoil 想收購 Getty Oil
+    - 雙方簽訂了 "Memorandum of Agreement"
+    - Texaco 後來也跑來跟 Getty Oil 交涉，並成功簽訂合約收購 Getty Oil
+    - Pennzoil 控告 Texaco，因為已簽訂的 "Memorandum of Agreement" 是 binding contract
+    - 最後成功勝訴，獲得巨額賠償，Taxaco 宣告破產
