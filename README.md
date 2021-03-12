@@ -1,15 +1,15 @@
 # Successful Negotiation: Essential Strategies and Skills
 
-# Plan Your Negotiation Strategy
+# 📍 Plan Your Negotiation Strategy
 
-## Should I negotiate?
+## 🔷 Should I negotiate?
 
 - 成本 vs 好處
     - 教授 offer 範例
 
         大學發給教授offer，教授回信附帶一些條件，結果大學把offer取消了。
 
-## Position Based vs Interest  Based
+## 🔷 Position Based vs Interest  Based
 
 [Types of Negotiations](https://www.notion.so/ef3a36f953cf44b3834e5bf7657e4dd1)
 
@@ -21,7 +21,7 @@
 
     Interest Based：一人喜歡邊邊，另一人喜歡料，雙方可得想要的部分，真正的 win-win
 
-## Six types of dispute resolution & Three lenses
+## 🔷 Six types of dispute resolution & Three lenses
 
 1. Power（武力）
 2. litigation（訴訟）
@@ -30,19 +30,19 @@
 5. negotiation（談判）
 6. avoidance（迴避）
 
-### Alternative Dispute Resolution（ADR）
+### 🔶 Alternative Dispute Resolution（ADR）
 
 Litigation is the enemy! Avoid litigation.
 
 - Arbitration、Mediation、Negotiation
 
-### Third Party Processes
+### 🔶 Third Party Processes
 
 External Third Parties or Third Parties within a Business（External & Internal）
 
 - Litigation、Arbitration、Mediation
 
-### Power Rights Interests
+### 🔶 Power Rights Interests
 
 Who's right? Which is finding underlying interests of both parties?
 
@@ -50,13 +50,13 @@ Who's right? Which is finding underlying interests of both parties?
 - Rights：Litigation、Arbitration
 - Interests：Mediation、negotiation
 
-### Conclusion
+### 🔶 Conclusion
 
 - Search for interests - even in a dispute resolution negotiation
 - Understand the six types of dispute resolution and the three lenses
 - Consider using dispute resolution processes like mediation and arbitration for deal making
 
-## How should I analyze a negotiation?
+## 🔷 How should I analyze a negotiation?
 
 1. What questions should I ask to complete an analysis?
 2. What is my BATNA in a dispute resolution negotiation?
@@ -73,11 +73,11 @@ Who's right? Which is finding underlying interests of both parties?
 - 做足功課後，合理價格為 $5000
 - 這筆交易至少要賣$4500，不然我就用 $4000 賣給我的朋友，而且他會讓我三週後再交車
 
-### What's the Other Side's Analysis?
+### 🔶 What's the Other Side's Analysis?
 
 - One of the landmarks of successful negotiators. They always look at the deal from the perspective from the other side.
 
-### Key Questions in a Negotiation Analysis
+### 🔶 Key Questions in a Negotiation Analysis
 
 1. What is your overall goal in reaching a negotiated agreement with Sarah?
 2. What issues are most important to you in reaching this goal? Why are these issues important?
@@ -86,18 +86,18 @@ Who's right? Which is finding underlying interests of both parties?
 5. What is your most likely price?
 6. What is your stretch goal?
 
-### Conclusion
+### 🔶 Conclusion
 
 - Setting a large stretch goal can close a great deal but don't be too greedy.
 - BATNA
 - What's the other side's analysis?
 - Where is the ZOPA (Zone of Potential Agreement)?
 
-## BATNA in a Dispute Resolution Negotiation
+## 🔷 BATNA in a Dispute Resolution Negotiation
 
 如果無法自行談判或調解，通常 BATNA 就是 litigation。
 
-### Things about Litigation in US
+### 🔶 Things about Litigation in US
 
 - Contingency Fees: 
 律師抽金額%數。
@@ -120,12 +120,12 @@ Who's right? Which is finding underlying interests of both parties?
     - 父母律師 "Discovery" 發現車商早就知道有問題，且一直隱瞞大眾，產品直接上線
     - 最後結果：賠償＋懲罰性賠償
 
-### Conclusion
+### 🔶 Conclusion
 
 - If you cannot negotiate the settlement of a dispute either directly or with the help of a mediator, your BATNA might be litigation (or arbitration, which is basically private litigation).
 - To analyze your litigation BATNA, especially in a global economy, you should understand the basic elements in the litigation process.
 
-## Using Decision Tree to Complete Your BATNA Analysis
+## 🔷 Using Decision Tree to Complete Your BATNA Analysis
 
 - 範例
     - A控告B，要求 4.6 million，五十趴贏，如果輸了要付400,000
@@ -137,12 +137,12 @@ Who's right? Which is finding underlying interests of both parties?
 
         ![Successful%20Negotiation%20Essential%20Strategies%20and%20Sk%20935fc694db3c41389a940c02f5be67d9/Screen_Shot_2021-02-27_at_2.54.47_PM.png](Successful%20Negotiation%20Essential%20Strategies%20and%20Sk%20935fc694db3c41389a940c02f5be67d9/Screen_Shot_2021-02-27_at_2.54.47_PM.png)
 
-### Conclusion
+### 🔶 Conclusion
 
 - Decision trees are valuable tools for analyzing your BATNA in both dispute resolution and deal-making negotiations.
 - This tool is also useful in making other complex business decisions.
 
-## Cross-Cultural Negotiations
+## 🔷 Cross-Cultural Negotiations
 
 - In cross-cultural negotiations, do a gap analysis to identify how your negotiation style differs from the other side.
 - Keep in mind that there are variances within each culture.
@@ -150,21 +150,21 @@ Who's right? Which is finding underlying interests of both parties?
 - Try role-reversal.
 - Success of negotiation between cross-national companies depends on respect of each other rather than style.
 
-## Ethical Issues and Standards
+## 🔷 Ethical Issues and Standards
 
-### Law-Based Ethical Standards
+### 🔶 Law-Based Ethical Standards
 
 - Fraud: False representation of a material fact that is relied on by the other side
 - Fiduciary Duty: A high duty of trust and loyalty
 - Unconscionability: Violates principles of good conscience
 
-### General Ethical Standards
+### 🔶 General Ethical Standards
 
 - Organizational Standards
 - Mentor: Someone you admire
 - Personal Standards: Gut Test, Newspaper Test, Family Test, Golden Rule
 
-## Use Agent for negotiation or not?
+## 🔷 Use Agent for negotiation or not?
 
 - Is the agent a better negotiator?
 - Does the agent have more experience in negotiating the issues?
@@ -172,7 +172,7 @@ Who's right? Which is finding underlying interests of both parties?
 - How much time do I have to invest in a negotiation?
 - What is my relationship with the other side?
 
-### Reality
+### 🔶 Reality
 
 - In business, almost all negotiations are conducted through agents.
 - Sometimes companies use secret agents since they don't want other side to know who's behind.
@@ -183,7 +183,7 @@ Who's right? Which is finding underlying interests of both parties?
         - 他用迪士尼的名字在 LA 買了 80 acres，結果周圍的地區被其他人買走，他發誓再也不這麼做。
         - 之後他跑到 Florida，設置 dummy cooperation 等等，用 secret agent 買了 2700 acres。
 
-### First question to ask before starting negotiate with an agent
+### 🔶 First question to ask before starting negotiate with an agent
 
 - Agent's Authority
     - Express: authority to negotiate the deal
@@ -203,22 +203,22 @@ Who's right? Which is finding underlying interests of both parties?
 
 👆 *Instead of asking other side directly, you should ask the principal.*
 
-### Conclusion
+### 🔶 Conclusion
 
 - Use the factor checklist when deciding whether to use an agent during negotiations.
 - At the beginning of every negotiation, find out whether your counterpart has authority to make a deal.
 
 ---
 
-# Use Key Tactics for Success
+# 📍 Use Key Tactics for Success
 
-## Getting to Know the Other Side
+## 🔷 Getting to Know the Other Side
 
 - Avoid your favorite topic - or else you'll probably talk too much.
 - Ask a lot of questions. People love to talk about themselves and often will think you are a great conversationalist if you talk about them...
 - Listening is crucial. Dan, a comedian from Manhattan, has learned to summarize what the other person says. ("So you think that..." or "So what you're saying is...") "A conversation can go on indefinitely if you do this" he says.
 
-## Using Power in Negotiations
+## 🔷 Using Power in Negotiations
 
 - **BATNA = Power**
 1. 找出對方的 BATNA
@@ -237,7 +237,7 @@ Who's right? Which is finding underlying interests of both parties?
 
 - Also, forming a coalition is another very powerful form of negotiation.
 
-### Use Psychological Tools to avoid traps
+### 🔶 Use Psychological Tools to avoid traps
 
 Traps: 
 
@@ -375,31 +375,31 @@ Traps:
 
     > "When you negotiate, you need to always keep in mind the big picture of what your client wants to achieve, and always come back to it, to avoid the trap of being lost in the details."
 
-# Create a Contract
+# 📍 Create a Contract
 
 *Freedom of contract: The law gives you a lot of freedom in writing that contract to create your responsibilities and to also create your duties.*
 
-## Perspectives on Contract
+## 🔷 Perspectives on Contract
 
-### Global Perspective
+### 🔶 Global Perspective
 
 - Will my contracts be enforced?
 
 > "A system of contract law and the means to enforce it are fundamental."
 
-### Business Perspective
+### 🔶 Business Perspective
 
 > "Obtaining a contract is the primary goal of a business entity."
 
-### Personal Perspective
+### 🔶 Personal Perspective
 
 > "In the world of contracts you as the writer control the script and produce the play."
 
-## Sources of Contract Law
+## 🔷 Sources of Contract Law
 
 - 考量兩個因素：法律系統、合約類型
 
-### Types of Legal System
+### 🔶 Types of Legal System
 
 - 可大致分為兩種法律系統
 - 不過大部分時間，他們兩個都很類似
@@ -417,7 +417,7 @@ Traps:
 
     印度：Common Law，巴西：Civil Law，美國、加拿大：Mixed (mostly common law)
 
-### Types of contract
+### 🔶 Types of contract
 
 1. Real Property
 
@@ -431,13 +431,13 @@ Traps:
 
     **Uniform Laws**: US Uniform Commercial Code; UN Convention on Contracts for the International Sale of Goods
 
-    *👆公約在國際交易時常用，不過不一定每個國家都有採用。*
+    *👆 公約在國際交易時常用，不過不一定每個國家都有採用。*
 
-## Key Elements in Creating a Contract
+## 🔷 Key Elements in Creating a Contract
 
-### Is there an agreement?
+### 🔶 Is there an agreement?
 
-將談判的內容轉換成合約是要花功夫的
+將談判的內容轉換成合約是要花功夫的。
 
 *Framework Agreement: 一種談判工具，合約的模板*
 
@@ -463,3 +463,64 @@ Traps:
     - Texaco 後來也跑來跟 Getty Oil 交涉，並成功簽訂合約收購 Getty Oil
     - Pennzoil 控告 Texaco，因為已簽訂的 "Memorandum of Agreement" 是 binding contract
     - 最後成功勝訴，獲得巨額賠償，Taxaco 宣告破產
+
+### 🔶 Is there consideration?
+
+*consideration (對價): 雙方是否都有所付出*
+
+- 捐贈給商學院
+    - 學生想捐贈三千萬美元給商學院
+    - 學生要求之後有一棟研究中心要以他命名
+    - 最後簽訂20年內，每年捐一百五十萬美元給學校
+    - 請問若學生在20年內過世，他的子女有義務要繼續付這些錢嗎？
+
+        有的，因為存在 consideration，雙方有所交換。
+
+### 🔶 Is the agreement legal?
+
+考量這個合約本身是否合法。
+
+### 🔶 Must the deal be in writing?
+
+![Successful%20Negotiation%20Essential%20Strategies%20and%20Sk%20935fc694db3c41389a940c02f5be67d9/Screen_Shot_2021-03-12_at_5.17.40_PM.png](Successful%20Negotiation%20Essential%20Strategies%20and%20Sk%20935fc694db3c41389a940c02f5be67d9/Screen_Shot_2021-03-12_at_5.17.40_PM.png)
+
+🔹 **In writing**
+
+*Parol Evidence Rule: 當一份合約從口頭上變成書面文件後，這個合約就只受書面文件的限制。*
+
+👆 有些國家不適用，或應用的條件不同，但幾乎所有商業合約，這都是第一個申明的規則
+
+- 搬家到紐約的費用範例
+    - 我拿到紐約公司的 offer，對方承諾我會幫我付搬家費用
+    - 但在簽合約的時候我忘了加這一條
+    - 之後想起來向公司提起時，公司表示現在沒錢沒辦法負擔
+    - 請問這時候公司有義務要負擔這些費用嗎？
+
+        不用，根據口頭證據規則，若有書面文件則只受書面文件規範。
+
+    - 假設在簽完合約我發現沒加，透過 email 詢問公司，且公司也說好，此時公司有義務要負擔這些費用嗎？
+
+        不用。根據 consideration，當時我已簽完合約並在該公司工作，對方說會幫我負擔費用，但我沒有付出，故沒有強制力。
+
+🔹 **In oral**
+
+- Oral agreements are enforceable
+
+    👆 *但各國對此都有一些例外，比如房地產，房地產資源稀缺，國家通常都會要求要有紙本才有強制力*
+
+- 實務上，請永遠都把合約寫下來，簡單方便許多，也比較沒有爭議
+
+> 「好記性不如爛筆頭」
+"The palest ink is better than the best memory."
+
+🔹 **Express Contract & Implied Contract**
+
+- 寫下來的屬於明示性條款，但有些暗示性條款是受法律保障的
+- 了解除明示性條款之外，還有哪些暗示性條款很重要
+- 洋芋片拉肚子範例
+    - 客人到雜貨店買洋芋片，吃了之後很不舒服，要控告店家
+    - 店家和客人都不知道洋芋片壞掉
+    - 洋芋片是在期限內被販售出去的
+    - 請問店家是否有責任？
+
+        要。因為在法律上，店家售出這包洋芋片，就應該要保證其品質。
