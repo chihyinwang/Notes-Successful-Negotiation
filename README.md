@@ -11,7 +11,7 @@
 
 ## 🔷 Position Based vs Interest  Based
 
-[Types of Negotiations](https://www.notion.so/ef3a36f953cf44b3834e5bf7657e4dd1)
+[✳️ Types of Negotiations](https://www.notion.so/ef3a36f953cf44b3834e5bf7657e4dd1)
 
 - 有人認為大部分時候，去尋找 Interest-Based 只是在浪費時間，但教授推薦我們，無論如何，都試著去尋找 bigger pie，創造更多價值。
 - 永遠要做好 Position-Based 的準備。
@@ -32,19 +32,19 @@
 
 ### 🔶 Alternative Dispute Resolution（ADR）
 
-Litigation is the enemy! Avoid litigation.
+✳️ Litigation is the enemy! Avoid litigation.
 
 - Arbitration、Mediation、Negotiation
 
 ### 🔶 Third Party Processes
 
-External Third Parties or Third Parties within a Business（External & Internal）
+✳️ External Third Parties or Third Parties within a Business（External & Internal）
 
 - Litigation、Arbitration、Mediation
 
 ### 🔶 Power Rights Interests
 
-Who's right? Which is finding underlying interests of both parties?
+✳️ Who's right? Which is finding underlying interests of both parties?
 
 - Power：Power
 - Rights：Litigation、Arbitration
@@ -65,7 +65,7 @@ Who's right? Which is finding underlying interests of both parties?
 > "If you don't know where you're going, you might end up somewhere else."  
   *——  Yogi Berra*
 
-狀況：
+✳️ 狀況：
 
 - 我想要賣車，Sarah 是唯一一個回應我的買家
 - 我需要賣至少 $4000，因為我要付新車的錢
@@ -95,7 +95,7 @@ Who's right? Which is finding underlying interests of both parties?
 
 ## 🔷 BATNA in a Dispute Resolution Negotiation
 
-如果無法自行談判或調解，通常 BATNA 就是 litigation。
+✳️ 如果無法自行談判或調解，通常 BATNA 就是 litigation。
 
 ### 🔶 Things about Litigation in US
 
@@ -128,7 +128,7 @@ Who's right? Which is finding underlying interests of both parties?
 ## 🔷 Using Decision Tree to Complete Your BATNA Analysis
 
 - 範例
-    - A控告B，要求 4.6 million，五十趴贏，如果輸了要付400,000
+    - A控告B，要求 4.6 million，五十趴贏，如果輸了要付＄400,000
     - B提供 2 million 要和解。
 
     提問：是否要和解？
@@ -220,7 +220,8 @@ Who's right? Which is finding underlying interests of both parties?
 
 ## 🔷 Using Power in Negotiations
 
-- **BATNA = Power**
+✳️ **BATNA = Power**
+
 1. 找出對方的 BATNA
     - 要跟對方說自己的 BATNA 嗎？
 
@@ -239,7 +240,7 @@ Who's right? Which is finding underlying interests of both parties?
 
 ### 🔶 Use Psychological Tools to avoid traps
 
-Traps: 
+✳️ Traps: 
 
 1. Mythical Fixed Pie Assumption: We assume that our interests are in direct conflict with the interests of the other side.
     - *Reactive devaluation - 先入為主的貶低*
@@ -344,7 +345,7 @@ Traps:
 7. Reciprocation: We feel the need to repay what someone has given us.
     - 在談判時雙方有自己在意的點，有時候自己先妥協在對方在意的點上，對方也會想在自己在意的點上妥協。
 8. Contrast Principle: Things look different when presented in sequence.
-    - 房仲業者會先帶你看兩間比較不好的房子，再帶你去看第三間又貴又好的房子，讓你覺得這是一筆好交易。
+    - 房仲業者會先帶你看兩間比較不好的房子，再帶你去看第三間又貴又好的房子，讓你覺得這是一筆好交易
     - 一封寫給父母的信
 
         Dear Mom and Dad, it has been three months since I left for college, I'm very sorry for my thoughtlessness in not having written before, I will bring you up to date now, but before you read on, you better sit down, okay?
@@ -397,7 +398,7 @@ Traps:
 
 ## 🔷 Sources of Contract Law
 
-- 考量兩個因素：法律系統、合約類型
+✳️ 考量兩個因素：法律系統、合約類型
 
 ### 🔶 Types of Legal System
 
@@ -405,14 +406,16 @@ Traps:
 - 不過大部分時間，他們兩個都很類似
 1. Common Law
     - Based on precedence
-    - Originated on England，所以通常被英國統治過的國家也是這個系統。
-    - 律師會花時間在尋找過去類似的案子，來給予法律建議。
-    - 合約通常比較長，因為要考慮到所有的可能性。
+    - Originated on England，所以通常被英國統治過的國家也是這個系統
+    - 律師會花時間在尋找過去類似的案子，來給予法律建議
+    - 合約通常比較長，因為要考慮到所有的可能性
+    - Consideration is necessary.
 2. Civil Law
     - Based on code
-    - Originated on European continent，所以通常被歐陸國家統治過的國家也是這個系統。
-    - 律師會花時間在尋找 principles，來給予法律建議。
-    - 合約通常比較短，因為有 principle 可以參考。
+    - Originated on European continent，所以通常被歐陸國家統治過的國家也是這個系統
+    - 律師會花時間在尋找 principles，來給予法律建議
+    - 合約通常比較短，因為有 principle 可以參考
+    - Consideration is not necessary
 - 範例：國家是哪種系統？
 
     印度：Common Law，巴西：Civil Law，美國、加拿大：Mixed (mostly common law)
@@ -437,7 +440,7 @@ Traps:
 
 ### 🔶 Is there an agreement?
 
-將談判的內容轉換成合約是要花功夫的。
+✳️ 將談判的內容轉換成合約是要花功夫的。
 
 *Framework Agreement: 一種談判工具，合約的模板*
 
@@ -468,6 +471,8 @@ Traps:
 
 *consideration (對價): 雙方是否都有所付出*
 
+- Common Law 一定要有 consideration，Civil Law 不用
+- 建議永遠都放入 consideration，比較安全
 - 捐贈給商學院
     - 學生想捐贈三千萬美元給商學院
     - 學生要求之後有一棟研究中心要以他命名
@@ -478,13 +483,13 @@ Traps:
 
 ### 🔶 Is the agreement legal?
 
-考量這個合約本身是否合法。
+✳️ 考量這個合約本身是否合法。
 
 ### 🔶 Must the deal be in writing?
 
 ![Successful%20Negotiation%20Essential%20Strategies%20and%20Sk%20935fc694db3c41389a940c02f5be67d9/Screen_Shot_2021-03-12_at_5.17.40_PM.png](Successful%20Negotiation%20Essential%20Strategies%20and%20Sk%20935fc694db3c41389a940c02f5be67d9/Screen_Shot_2021-03-12_at_5.17.40_PM.png)
 
-🔹 **In writing**
+✳️ **In writing**
 
 *Parol Evidence Rule: 當一份合約從口頭上變成書面文件後，這個合約就只受書面文件的限制。*
 
@@ -502,7 +507,7 @@ Traps:
 
         不用。根據 consideration，當時我已簽完合約並在該公司工作，對方說會幫我負擔費用，但我沒有付出，故沒有強制力。
 
-🔹 **In oral**
+✳️ **In oral**
 
 - Oral agreements are enforceable
 
@@ -513,7 +518,7 @@ Traps:
 > 「好記性不如爛筆頭」
 "The palest ink is better than the best memory."
 
-🔹 **Express Contract & Implied Contract**
+✳️ **Express Contract & Implied Contract**
 
 - 寫下來的屬於明示性條款，但有些暗示性條款是受法律保障的
 - 了解除明示性條款之外，還有哪些暗示性條款很重要
@@ -524,3 +529,36 @@ Traps:
     - 請問店家是否有責任？
 
         要。因為在法律上，店家售出這包洋芋片，就應該要保證其品質。
+
+## 🔷 Business vs. Legal Objectives in Contracting
+
+### 🔶 Contract Tension
+
+1. Loss Prevention: Legally Perfect Contract
+2. Value Creation: Achieve Business Goals
+
+✳️ Traditional Legal Approach: Develop a "Perfect Contract"
+
+- Conventional goal — An agreement is final, binding and enforceable
+- 律師會從法官的角度來看合約，如果出錯會發生什麼事
+- What's wrong with trying to develop the "Perfect Contract"
+    - Length and complexity: 握手之約可能會變成超過四十頁的書面合約
+    - Transaction Costs: 要花很多時間跟金錢與律師合作
+    - 當問題發生的時候，我們會往合約尋求解決方式，而非使用商業技能來解決，此時問題會變 legalistic
+    - 有些文化更注重關係而非合約內容
+    - 更著重在負面後果，而非此次合作的正面影響
+
+✳️ Lean Contracting Approach
+
+- 由蘇格蘭的啤酒商律師發跡
+- 內容包含：產品或服務的價錢、智慧財產權、隱含的法規（沒有寫上去）
+- 有許多法規已被國家 implied，為什麼要多花時間去討論現有的法規呢？
+- 更強調市場自由機制而非法律義務，若雙方已沒有互利互惠，就不用硬逼著對方合作
+
+✳️ Conventional vs. Lean
+
+- 如果是一次性的交易（借款、股份交易等等），可以寫得更詳細一點；如果是長期的合作關係，則可以更倚賴雙方的信任，不寫的過分詳細。
+
+✳️ How can we make the legal terms more understandable?
+
+- 法律文件總是讓人看不懂，可以試著視覺化，或是增加一些顏色
