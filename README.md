@@ -32,19 +32,19 @@
 
 ### 🔶 Alternative Dispute Resolution（ADR）
 
-✳️ Litigation is the enemy! Avoid litigation.
+✳️  Litigation is the enemy! Avoid litigation.
 
 - Arbitration、Mediation、Negotiation
 
 ### 🔶 Third Party Processes
 
-✳️ External Third Parties or Third Parties within a Business（External & Internal）
+✳️  External Third Parties or Third Parties within a Business（External & Internal）
 
 - Litigation、Arbitration、Mediation
 
 ### 🔶 Power Rights Interests
 
-✳️ Who's right? Which is finding underlying interests of both parties?
+✳️  Who's right? Which is finding underlying interests of both parties?
 
 - Power：Power
 - Rights：Litigation、Arbitration
@@ -65,7 +65,7 @@
 > "If you don't know where you're going, you might end up somewhere else."  
   *——  Yogi Berra*
 
-✳️ 狀況：
+✳️  狀況：
 
 - 我想要賣車，Sarah 是唯一一個回應我的買家
 - 我需要賣至少 $4000，因為我要付新車的錢
@@ -95,7 +95,7 @@
 
 ## 🔷 BATNA in a Dispute Resolution Negotiation
 
-✳️ 如果無法自行談判或調解，通常 BATNA 就是 litigation。
+✳️  如果無法自行談判或調解，通常 BATNA 就是 litigation。
 
 ### 🔶 Things about Litigation in US
 
@@ -220,7 +220,7 @@
 
 ## 🔷 Using Power in Negotiations
 
-✳️ **BATNA = Power**
+✳️  **BATNA = Power**
 
 1. 找出對方的 BATNA
     - 要跟對方說自己的 BATNA 嗎？
@@ -240,7 +240,7 @@
 
 ### 🔶 Use Psychological Tools to avoid traps
 
-✳️ Traps: 
+✳️  Traps: 
 
 1. Mythical Fixed Pie Assumption: We assume that our interests are in direct conflict with the interests of the other side.
     - *Reactive devaluation - 先入為主的貶低*
@@ -398,7 +398,7 @@
 
 ## 🔷 Sources of Contract Law
 
-✳️ 考量兩個因素：法律系統、合約類型
+✳️  考量兩個因素：法律系統、合約類型
 
 ### 🔶 Types of Legal System
 
@@ -440,7 +440,7 @@
 
 ### 🔶 Is there an agreement?
 
-✳️ 將談判的內容轉換成合約是要花功夫的。
+✳️  將談判的內容轉換成合約是要花功夫的。
 
 *Framework Agreement: 一種談判工具，合約的模板*
 
@@ -483,13 +483,13 @@
 
 ### 🔶 Is the agreement legal?
 
-✳️ 考量這個合約本身是否合法。
+✳️  考量這個合約本身是否合法。
 
 ### 🔶 Must the deal be in writing?
 
 ![Successful%20Negotiation%20Essential%20Strategies%20and%20Sk%20935fc694db3c41389a940c02f5be67d9/Screen_Shot_2021-03-12_at_5.17.40_PM.png](Successful%20Negotiation%20Essential%20Strategies%20and%20Sk%20935fc694db3c41389a940c02f5be67d9/Screen_Shot_2021-03-12_at_5.17.40_PM.png)
 
-✳️ **In writing**
+✳️  **In writing**
 
 *Parol Evidence Rule: 當一份合約從口頭上變成書面文件後，這個合約就只受書面文件的限制。*
 
@@ -507,7 +507,7 @@
 
         不用。根據 consideration，當時我已簽完合約並在該公司工作，對方說會幫我負擔費用，但我沒有付出，故沒有強制力。
 
-✳️ **In oral**
+✳️  **In oral**
 
 - Oral agreements are enforceable
 
@@ -518,7 +518,7 @@
 > 「好記性不如爛筆頭」
 "The palest ink is better than the best memory."
 
-✳️ **Express Contract & Implied Contract**
+✳️  **Express Contract & Implied Contract**
 
 - 寫下來的屬於明示性條款，但有些暗示性條款是受法律保障的
 - 了解除明示性條款之外，還有哪些暗示性條款很重要
@@ -537,7 +537,7 @@
 1. Loss Prevention: Legally Perfect Contract
 2. Value Creation: Achieve Business Goals
 
-✳️ Traditional Legal Approach: Develop a "Perfect Contract"
+✳️  Traditional Legal Approach: Develop a "Perfect Contract"
 
 - Conventional goal — An agreement is final, binding and enforceable
 - 律師會從法官的角度來看合約，如果出錯會發生什麼事
@@ -548,24 +548,24 @@
     - 有些文化更注重關係而非合約內容
     - 更著重在負面後果，而非此次合作的正面影響
 
-✳️ Lean Contracting Approach
+✳️  Lean Contracting Approach
 
 - 由蘇格蘭的啤酒商律師發跡
 - 內容包含：產品或服務的價錢、智慧財產權、隱含的法規（沒有寫上去）
 - 有許多法規已被國家 implied，為什麼要多花時間去討論現有的法規呢？
 - 更強調市場自由機制而非法律義務，若雙方已沒有互利互惠，就不用硬逼著對方合作
 
-✳️ Conventional vs. Lean
+✳️  Conventional vs. Lean
 
 - 如果是一次性的交易（借款、股份交易等等），可以寫得更詳細一點；如果是長期的合作關係，則可以更倚賴雙方的信任，不寫的過分詳細。
 
-✳️ How can we make the legal terms more understandable?
+✳️  How can we make the legal terms more understandable?
 
 - 法律文件總是讓人看不懂，可以試著視覺化，或是增加一些顏色
 
 # 📍 Perform and Evaluate: The End Game
 
-✳️ Alternative Dispute Resolution (ADR)
+✳️  Alternative Dispute Resolution (ADR)
 
 Importance of ADR: 
 
@@ -599,7 +599,7 @@ Importance of ADR:
 
 ## 🔷 ADR Concepts
 
-✳️ 我們不只可在有爭議的時候使用，在交易中也可以使用
+✳️  我們不只可在有爭議的時候使用，在交易中也可以使用
 
 1. Mediation — e.g., Mini-trial
     - 代表有機會從對方律師的角度了解這一案件（可能和從自己律師那邊聽到的很不一樣）
@@ -645,7 +645,7 @@ Importance of ADR:
 - 事前表示在發生爭議前，合約就包含了這些條款
 - 事後表示合同中不包含這些條款，等爭端出現時再去想要怎麼解決
 
-✳️ 比如在合約中表明若發生爭議要以哪種方式解決
+✳️  比如在合約中表明若發生爭議要以哪種方式解決
 
 1. Mediation
 2. Arbitration
@@ -675,7 +675,7 @@ Cons:
 - 仲裁人的裁決，不會因為事實上或法律上的錯誤而複審，仲裁人就是充當法官的角色
 - 仲裁已經變成一個具有法律性和終局性 (finality) 的程序，導致現在有些企業更偏好使用調解
 
-✳️ 流程
+✳️  流程
 
 *與訴訟的流程非常像*
 
@@ -689,7 +689,7 @@ Cons:
 
 ![Successful%20Negotiation%20Essential%20Strategies%20and%20Sk%20935fc694db3c41389a940c02f5be67d9/Screen_Shot_2021-03-15_at_3.40.14_PM.png](Successful%20Negotiation%20Essential%20Strategies%20and%20Sk%20935fc694db3c41389a940c02f5be67d9/Screen_Shot_2021-03-15_at_3.40.14_PM.png)
 
-✳️ 分類
+✳️  分類
 
 - Facilitative: 目標是促進雙方的對話、討論、談判
 - Evaluative: 促進雙方對話之外，還要提供專業知識，給予這次調解一個評估
@@ -698,14 +698,14 @@ Cons:
         - 女性的郵差投訴上司性騷擾，因為上司總是用編號來叫她，dehumanize
         - 結果上司其實對每個人都是這樣，他這也才了解性騷擾是這個原因，道了歉也改掉這個行為，皆大歡喜
 
-✳️ 流程
+✳️  流程
 
 1. Mediator 說明這次調解的用意及規則
 2. 雙方代表公開陳述案件，另一方答應在過程中不干擾
 3. Mediator 與雙方代表分別開會（caucus meeting），私下了解雙方立場及需求，構建雙方的協議空間
 4. 達成協議
 
-✳️ 問題
+✳️  問題
 
 1. 調解與談判有什麼不同？
     - 最大的不同在調解有 caucus meeting，雙方將自己認為合理的範圍告訴 mediator，讓 mediator 從中調解
@@ -721,3 +721,46 @@ Cons:
     - reality testing: 強調目的、問題解決
 
 > "My joy was boundless. I learned the true practice of law. I had learned to find out the better side of human nature and to enter men's hearts. I realized that the true function of a lawyer was to unite parties. The lesson was so indelibly burnt into me that a large part of my time during the last 20 years, of my practice as a lawyer was occupied in bringing about private compromises of 100s of cases. I lost nothing thereby not even money and certainly not my soul." — Gandhi
+
+## 🔷 Review and Evaluation
+
+> "More often than desirable, the persons responsible for original contract negotiations are only responsible for obtaining the contract, not for its implementation. Their incentives are more linked to closure than to ongoing implementation"
+
+✳️  創建合約團隊跟履行合約團隊之間存在著根本的衝突
+
+### 🔶 Comparison of the Two mindset
+
+1. Deal-Making Mindset
+    - 利用出其不意來獲取優勢
+    - 隱瞞訊息
+    - 利用策略如 false deadline 來達成交易
+    - 透過違約金來保護自己
+2. Implementation Mindset
+    - 盡快提出所有問題來給予仔細思考的回覆
+    - 分享訊息來增進信任
+    - 花足夠多的時間來制定有效的協議
+    - 致力於制定符合實際的承諾
+
+### 🔶 Deal Focus & Big Picture Focus
+
+1. 交易導向
+    - 折扣
+    - 銷售量
+    - 偶爾檢查交易
+2. 全局導向
+    - 總體成本（減少缺陷、供應商效率、開發新產品）
+    - 長久客戶關係
+    - 對過程進行系統化的審查和改進
+
+### 🔶 Self-Assessment
+
+- What did I do well?
+- How can I improve?
+- Established a relationship?
+- Searched for underlying interests?
+- Asked questions and listened to the answer?
+- Found out whether the other side had authority?
+- Used an effective "first price" strategy?
+- Looked at negotiation from the other side?
+- Used reciprocity when trading interests?
+- Kept a big picture perspective?
