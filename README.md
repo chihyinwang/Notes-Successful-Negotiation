@@ -15,6 +15,10 @@
 
 - 有人認為大部分時候，去尋找 Interest-Based 只是在浪費時間，但教授推薦我們，無論如何，都試著去尋找 bigger pie，創造更多價值。
 - 永遠要做好 Position-Based 的準備。
+- Deal Making vs. Dispute Resolution
+    - Forward looking ←→ Backward looking
+    - Position-Based ←→ Interest-Based
+    - Adversarial ←→ Problem Solving
 - Pizza 範例
 
     Position Based：一人一半，一般認為這就是 win-win
@@ -764,3 +768,27 @@ Cons:
 - Looked at negotiation from the other side?
 - Used reciprocity when trading interests?
 - Kept a big picture perspective?
+
+# 📍 Negotiation Exercise
+
+## 🔷 Game Plan
+
+### 🔶 1.0 Prepare: Plan Your Negotiation Strategy
+
+1. Preliminary Question: Should I negotiate?
+2. Is this a position-based or interest-based negotiation?
+3. Am I trying to resolve a dispute or make a deal?
+4. How should I analyze a negotiation?
+    - BATNA
+    - stretch goal, reservation goal, ZOPA,...
+5. Is this a cross-cultural negotiation?
+6. How should I handle ethical issues?
+7. Should I use an agent to negotiate for me?
+
+### 🔶 2.0 Negotiate: Use Key Tactics for Success
+
+1. Get to know the other side
+2. Understand your power
+    - Both sides' BATNA
+    - Can I weaken their power?
+3. Use psychological tools — and avoid traps
