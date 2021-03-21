@@ -792,3 +792,27 @@ Cons:
     - Both sides' BATNA
     - Can I weaken their power?
 3. Use psychological tools — and avoid traps
+
+### 🔶 3.0 Negotiate: Use Key Tactics for Success
+
+1. Mythical Fixed Pie Assumption
+2. Anchoring
+    - 誰要先丟出價錢？
+3. Overconfidence
+    - 如果我們的ZOPA拉得更大，我們是否會發現一些問題？發現有些事實的隱含意義？
+4. Framing
+5. Availability
+6. Escalation
+7. Reciprocation
+8. Contrast Principle
+9. Big-Picture Perspective
+
+### 🔶 4.0 Creating and Performing the Contract
+
+1. Is there an agreement?
+2. Is there consideration?
+3. Is the agreement legal?
+4. Must the deal be in writing?
+    - Parol Evidence Rule
+    - 某些交易一定要有紙本（房地產）
+    - 是否包含 ADR 條款
