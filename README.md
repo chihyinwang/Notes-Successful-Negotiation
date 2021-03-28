@@ -96,6 +96,7 @@
 - BATNA
 - What's the other side's analysis?
 - Where is the ZOPA (Zone of Potential Agreement)?
+    - *ZOPA = 兩邊的 reservation price 區間*
 
 ## 🔷 BATNA in a Dispute Resolution Negotiation
 
@@ -148,6 +149,8 @@
 
 ## 🔷 Cross-Cultural Negotiations
 
+- Deep culture: Values & Beliefs
+- Surface culture: negotiation style
 - In cross-cultural negotiations, do a gap analysis to identify how your negotiation style differs from the other side.
 - Keep in mind that there are variances within each culture.
 - Conduct research so that you can avoid actions that are offensive in the other culture.
@@ -191,8 +194,12 @@
 
 - Agent's Authority
     - Express: authority to negotiate the deal
+        - 明確向對方表示此代理有被授權可進行交易
     - Implied: authority to negotiate certain deal
+        - 只有被授權進行某些交易而已
     - Apparent: company said agent has, but it doesn't
+        - 明確向對方表示此代理有被授權可進行交易，但公司有私下向代理下一些指令，比如 reservation price
+        - 若最後代理簽下合約，金額高於 reservation price，公司仍要執行此合約，因為對對方來說，代理已有權交易
     - 向銀行借錢實例
         - A 向銀行借錢，但他沒有抵押品。
         - A 在大公司上班，他請主管 B 保證公司能還錢，且附上簽名。
